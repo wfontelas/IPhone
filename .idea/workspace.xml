@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="345801dd-db4f-4261-8ae4-04695e1dbdd5" name="Changes" comment="" />
+    <list default="true" id="345801dd-db4f-4261-8ae4-04695e1dbdd5" name="Changes" comment=" Iniciando o Projeto IPhone" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +10,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/wfontelas/IPhone.git",
+    "accountId": "9a4665ff-f846-409b-8538-d70108bc14c8"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -23,6 +29,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
@@ -35,6 +42,40 @@
       <option name="presentableId" value="Default" />
       <updated>1717659562033</updated>
     </task>
+    <task id="LOCAL-00001" summary="Iniciando o Projeto">
+      <option name="closed" value="true" />
+      <created>1717659736367</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717659736367</updated>
+    </task>
+    <task id="LOCAL-00002" summary=" Iniciando o Projeto IPhone">
+      <option name="closed" value="true" />
+      <created>1717659902295</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717659902295</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Iniciando o Projeto Iphone" />
+    <MESSAGE value="Iniciando o Projeto" />
+    <MESSAGE value=" Iniciando o Projeto IPhone" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Iniciando o Projeto IPhone" />
   </component>
 </project>
