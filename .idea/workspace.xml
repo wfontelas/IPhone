@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="345801dd-db4f-4261-8ae4-04695e1dbdd5" name="Changes" comment=" Iniciando o Projeto IPhone">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dispositivo/IPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/navegador/NavegadorInternet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reprodutor/ReprodutorMusical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/telefone/AparelhoTelefonico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="345801dd-db4f-4261-8ae4-04695e1dbdd5" name="Changes" comment="Alteração do nomedo diagrama">
+      <change beforePath="$PROJECT_DIR$/Diagrama sem nome.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/IphoneDiagrama.drawio" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +97,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717660375979</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=" Finalizado o Projeto IPhone">
+      <option name="closed" value="true" />
+      <created>1717664313703</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717664313703</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Alteração do nomedo diagrama">
+      <option name="closed" value="true" />
+      <created>1717664432626</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717664432626</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +131,9 @@
     <MESSAGE value="Iniciando o Projeto Iphone" />
     <MESSAGE value="Iniciando o Projeto" />
     <MESSAGE value=" Iniciando o Projeto IPhone" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Iniciando o Projeto IPhone" />
+    <MESSAGE value=" Finalizado o Projeto IPhone" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="Alteração do nomedo diagrama" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alteração do nomedo diagrama" />
   </component>
 </project>
